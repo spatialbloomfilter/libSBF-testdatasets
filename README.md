@@ -37,4 +37,4 @@ Luca Calderoni, Dario Maio - University of Bologna (Italy)
 Paolo Palmieri - Cranfield University (UK)
 
 ## License ##
-The datasets are released under the [MIT License](LECENSE).
+The datasets are released under the [MIT License](LICENSE).
