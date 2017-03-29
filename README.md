@@ -23,7 +23,7 @@ For each dimension, a number of datasets (CSV files) are provided:
 - `area-element-lindec.csv`: same as above, but with a linearly decreasing number of elements into the areas.
 Datasets with elements only have one element per line; the datasets with both areas and elements list the values separated by a comma, the area first and the element second.
  
-The datasets can be used to test any code that uses the libSBF libraries. Both the [C++](https://github.com/spatialbloomfilter/libSBF-cpp "libSBF-cpp") and [Python](https://github.com/spatialbloomfilter/libSBF-python "libSBF-python") libraries also provide a sample application that can be used with the test datasets. The sample applications create an SBF and insert elements from the selected (`area-element.csv`), and test membership using the `non-elements.csv` dataset.
+The datasets can be used to test any code that uses the libSBF libraries. Both the [C++](https://github.com/spatialbloomfilter/libSBF-cpp "libSBF-cpp") and [Python](https://github.com/spatialbloomfilter/libSBF-python "libSBF-python") libraries also provide a sample application that can be used with the test datasets. The sample applications create an SBF and insert elements from the selected `area-element-X.csv`, and test membership using the `non-elements.csv` dataset.
 
 For more details on the implementation, and how to use the library please refer to the [homepage](http://sbf.csr.unibo.it/ "SBF project homepage") of the project.
 
