@@ -4,6 +4,8 @@
  *                                                                 *
  *  Authors:	Luca Calderoni, Dario Maio, University of Bologna  *
  *		Paolo Palmieri, Cranfield University               *
+ *                                                                 *
+ *    https://github.com/spatialbloomfilter/libSBF-testdatasets    *
  *******************************************************************/
 
 The included datasets are provided to enable the testing of Spatial Bloom 
