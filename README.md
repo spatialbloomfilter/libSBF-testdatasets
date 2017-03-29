@@ -11,7 +11,7 @@ The libSBF-testdatasets repository contains a set of sample datasets useful in t
 
 The datasets are provided in 2 dimensions:
 - [8-bit](8bit), with a maximum number of areas of 255 (where the filter is an array of 1-byte values);
-- [16-bit](16bit) (with a maximum number of areas of 65,535 (where the filter is an array of 2-byte values).
+- [16-bit](16bit), with a maximum number of areas of 65,535 (where the filter is an array of 2-byte values).
 This reflects the memory management of the implementation of the SBF libraries. The 8-bit datasets are also more compact (around 500K each), allowing for easier and quicker testing, while the 16-bit datasets are useful for larger and more comprehensive case studies (each dataset is around 200M).
 
 For each dimension, a number of datasets (CSV files) are provided:
