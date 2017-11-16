@@ -1,6 +1,6 @@
 /*******************************************************************
  *                              README                             *
- *                         8bit test dataset                       *
+ *                        8-bit test dataset                       *
  *                                                                 *
  *  Authors:	Luca Calderoni, Dario Maio, University of Bologna  *
  *		Paolo Palmieri, University College Cork            *
