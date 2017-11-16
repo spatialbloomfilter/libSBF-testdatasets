@@ -3,7 +3,7 @@
  *                        16bit test dataset                       *
  *                                                                 *
  *  Authors:	Luca Calderoni, Dario Maio, University of Bologna  *
- *		Paolo Palmieri, Cranfield University               *
+ *		Paolo Palmieri, University College Cork            *
  *                                                                 *
  *    https://github.com/spatialbloomfilter/libSBF-testdatasets    *
  *******************************************************************/
