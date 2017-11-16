@@ -1,6 +1,6 @@
 /*******************************************************************
  *                              README                             *
- *                        16bit test dataset                       *
+ *                       16-bit test dataset                       *
  *                                                                 *
  *  Authors:	Luca Calderoni, Dario Maio, University of Bologna  *
  *		Paolo Palmieri, University College Cork            *
